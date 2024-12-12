@@ -1,0 +1,11 @@
+*{
+    padding: 0;
+    margin: auto;
+}
+.nav-item:hover{
+    background-color: #79f17f;
+}
+.borderLine{
+    height: 45px;
+    border: 1px solid white;
+}
